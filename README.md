@@ -1,9 +1,9 @@
-# mini-projets
-mini projet sur python
-- le lancer de dés
-- un générateur de mots de passe
-- un générateur d'acronyme
-- un jeu pour que l'ordinateur devine le nombre auquel l'utilisateur pense
-- le jeu de Chi-fou-mi (pierre-papier-ciseaux)
+This repository contains a collection of small Python scripts for fun or practice. Each file is standalone and runs in the terminal.
 
-vous pourrez retrouver ces projets dans la branche 1 
+List of Projects
+
+- deviner_un_nombre.py :	A game where the computer tries to guess the user's number.
+- chifoumi.py :	Classic rock-paper-scissors game against the computer.
+- generateur_de_mots_de_passe.py :	Secure password generator.
+- generateur_acronyme.py :	Generates an acronym from a sentence.
+- lancer_de_des.py :	Simulates a dice roll with a user-defined number of sides.
